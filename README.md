@@ -1,3 +1,3 @@
 Snippet Box
 
-This is my exercise using Go.
+Have fun with Go.
